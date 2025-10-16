@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html lang="tr">
+<head> 
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0>
+     <title>My Portofolio</title>
+     <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <header> 
+         <h1>Hello, ı am Fatma Yıldız!</h1>
+         <p>software development candidate</p>
+     </header>
+     <section> 
+         <h2>about me </h2>
+         <p>I am a passionate and motivated aspiring software developer with a keen interest in web development and problem-solving. I am currently enhancing my skills in HTML, CSS, and JavaScript, and I enjoy creating projects to apply my knowledge. This portfolio showcases my journey and projects as I work towards building a successful career in technology.</p>
+     </section>
+</body>
+</html>
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+header {
+    background-color: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+section {
+    padding: 20px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+
+# bookish-doodle
+Test repository for my personal projects.
+
+## My Portfolio Project
+This is a simple portfolio website to showcase my skills and projects. Built with HTML and CSS, it includes:
+- A header with my name and title
+- A section for "About Me"
+- Basic styling with CSS
+
+### Future Plans
+- Add a projects section
+- Include JavaScript for interactivity
+
+
+
+
+
+
+
+
